@@ -53,13 +53,16 @@ body {
   width: 75%;
   margin: 1rem auto;
 }
-.save-button {
+.heckingButtons{
   position: absolute;
   top: 25px;
   right: 25px;
+}
+.save-button {
   border: 1px solid grey;
   padding: 5px 10px;
   background-color: lightseagreen;
+  margin: 2%;
 }
 .save-button:hover {
   background-color: green;
